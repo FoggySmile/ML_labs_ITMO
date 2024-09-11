@@ -35,4 +35,4 @@
 
 ```bash
 git clone https://github.com/your_username/repository_name.git
-cd cd
+cd src
