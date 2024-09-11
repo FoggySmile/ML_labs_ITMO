@@ -25,7 +25,6 @@
 
 - Python 3.x
 - Jupyter Notebook
-- Установленные библиотеки (см. файл `requirements.txt`)
 
 ## Запуск
 
